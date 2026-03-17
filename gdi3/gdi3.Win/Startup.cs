@@ -3,6 +3,7 @@ using DevExpress.ExpressApp.ApplicationBuilder;
 using DevExpress.ExpressApp.Design;
 using DevExpress.ExpressApp.EFCore;
 using DevExpress.ExpressApp.Security;
+using DevExpress.XtraEditors;
 using DevExpress.ExpressApp.Win;
 using DevExpress.ExpressApp.Win.ApplicationBuilder;
 using DevExpress.Persistent.Base;

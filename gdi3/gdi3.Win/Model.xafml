@@ -1,4 +1,4 @@
 ﻿<Application Logo="ExpressAppLogo">
-    <Options UIType="TabbedMDI" FormStyle="Ribbon" />
+    <Options UIType="TabbedMDI" FormStyle="Ribbon" Skin="WXI Compact" />
     <NavigationItems NavigationStyle="Accordion" DefaultChildItemsDisplayStyle="List"/>
 </Application>

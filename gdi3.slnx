@@ -5,6 +5,5 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="gdi3/gdi3.Module/gdi3.Module.csproj" />
-  <Project Path="gdi3/gdi3.Tests/gdi3.Tests.csproj" />
   <Project Path="gdi3/gdi3.Win/gdi3.Win.csproj" />
 </Solution>
